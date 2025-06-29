@@ -5,7 +5,7 @@
 
 * Data Engineering: contributing to projects like SQL dialect translators and Trino Docker Compose environments
 
-* Full-Stack Development: working with modern JavaScript/TypeScript stacks
+* Full-Stack Development: working with Vue, JavaScript,TypeScript 
 
 * Systems Programming: extensive coding in C, Java, and C#
 
