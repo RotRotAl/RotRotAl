@@ -1,5 +1,5 @@
 # RotRotAl-
-👨‍💻 Software Engineering Student | 🚀 Passionate about building robust data engineering solutions and modern full-stack applications.
+👨‍💻 Software Engineering Student | 🚀 Passionate about building data engineering solutions and modern full-stack applications.
 
 🛠️ Certified Software Technician with hands-on experience in:
 
